@@ -1,0 +1,8 @@
+language: Deutsch
+radioname: Radio
+radiolore1: &aRechtsklick: Wechsle den Sender
+radiolore2: &aLinkslick: Schalte das Radio ein/aus
+disabled: aus
+setlanguage: Du hast deine Sprache auf &a%1$s&2 gesetzt!
+availablelangs: Verfügbare Sprachen
+nopermission: Du besitzt nicht die erforderlichen Rechte um das zutun &4(%1$s)&c!

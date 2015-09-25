@@ -1,0 +1,11 @@
+name: Radio
+author: Rafessor, Johni0702
+version: 1.2
+softdepend: [NoteBlockAPI]
+
+main: de.rafessor.radio.plugin.RadioPlugin
+
+commands:
+  radio:
+    description: Selects a langauge
+    usage: /<command> lang <language>

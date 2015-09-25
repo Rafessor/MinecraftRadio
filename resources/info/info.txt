@@ -1,0 +1,26 @@
+Commands:
+/radio lang <language> - Change your language
+/radio skipsong (Permission: "radio.skipsong") - skip the song that is currently playing
+/radio give (Permission: "radio.own") - Update/gebe dir das Radio-item
+
+Permission needed to get/use the Radio: "radio.own"
+
+=========================================================================================================
+
+You can simply add new Radio Stations and languages to this plugin.
+
+How to add a language:
+If you want to add a language simply copy the langEnglish.txt file and rename it to for example langRussian.txt 
+and than retranslate everything in the file. You will also have to put the name of the language at the place with
+ the key "lang", so in this example you would have to put "lang: Russian" there.
+ 
+ How to add a Radio station:
+ Simply create a folder in the "Radios" folder with the name the Station should have. Than add .nbs files and the 
+ plugin will do the rest for you. If you dont have .nbs files there are 2 ways of getting them. You will find many 
+ downloadable .nbs songs in the internet and you can also convert .midi songs to .nbs songs by yourself using 
+ NoteBlockStudio (google will help you)
+ 
+ =========================================================================================================
+ 
+This plugin was created by Rafessor (https://twitter.com/TheRafessor) 
+and is using the NoteBlockAPI (https://github.com/xxmicloxx/NoteBlockAPI/)

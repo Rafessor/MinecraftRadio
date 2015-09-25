@@ -1,0 +1,8 @@
+language: English
+radioname: Radio
+radiolore1: Right click: Switch the radio station.
+radiolore2: Left click: Enable/Disable the Radio
+disabled: off
+setlanguage: You set your language to &a%1$s!
+availablelangs: Available languages:
+nopermission: You do not have the permission to do that &4(%1$s)&c!
